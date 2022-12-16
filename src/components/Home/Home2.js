@@ -6,6 +6,7 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -30,16 +31,17 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Web Technologies and Products </b>
+                 {/* and
                 also in areas related to{" "}
                 <b className="purple">
                   Deep Learning and Natural Launguage Processing.
-                </b>
+                </b> */}
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with 
               <i>
                 <b className="purple">
                   {" "}
@@ -48,7 +50,51 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> React.js</b>
+              </i>
+              <br/>
+              <br/>
+              I have experience in developing application  &nbsp;
+              <i>
+                <b className="purple">
+                  {" "}
+                  (With Android and RectNative)
+                </b>
+              </i>
+              &nbsp; Game &nbsp;
+               <i>
+                <b className="purple">
+                  {" "}
+                  (With Unity)
+                </b>
+              </i>
+              &nbsp;   WebApplication &nbsp;
+              <i>
+                <b className="purple">
+                  {" "}
+                 ( With Ionic)
+                </b>
+              </i>
+              &nbsp; Backend Server &nbsp;
+              <i>
+                <b className="purple">
+                  {" "}
+                  (With JavaSpringBoot)
+                </b>
+              </i>
+              &nbsp; DataBase &nbsp;
+              <i>
+                <b className="purple">
+                  {" "}
+                 ( With Mysql)
+                </b>
+              </i>
+              &nbsp; And also i work &nbsp;
+              <i>
+                <b className="purple">
+                  {" "}
+                 With Docker , Nginx 
+                </b>
               </i>
             </p>
           </Col>
@@ -67,7 +113,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/kamyab78"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,7 +121,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com/Soumyajit4419"
                   target="_blank"
@@ -84,10 +130,10 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/kamyab-ghassemi/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +143,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/a_kamyab_h"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
