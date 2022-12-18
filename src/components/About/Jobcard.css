@@ -1,0 +1,242 @@
+.skillprogress80{
+    width: 80%; visibility: visible; animation-duration: 0.5s; animation-delay: 0.3s; animation-name: fadeInLeft;
+}
+.skillprogress75{
+    width: 75%; visibility: visible; animation-duration: 0.5s; animation-delay: 0.3s; animation-name: fadeInLeft;
+}
+.skillprogress90{
+    width: 90%; visibility: visible; animation-duration: 0.5s; animation-delay: 0.3s; animation-name: fadeInLeft;
+}
+.skillprogress85{
+    width: 85%; visibility: visible; animation-duration: 0.5s; animation-delay: 0.3s; animation-name: fadeInLeft;
+}
+.skillprogress95{
+    width: 95%; visibility: visible; animation-duration: 0.5s; animation-delay: 0.3s; animation-name: fadeInLeft;
+}
+
+.skillprogress70{
+    width: 70%; visibility: visible; animation-duration: 0.5s; animation-delay: 0.3s; animation-name: fadeInLeft;
+}
+.nav-tabs{
+border-bottom-color: transparent !important;
+}
+.rn-nav-list {
+    border: 0 none;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #181728, #181728);
+    box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+    justify-content: space-between;
+}
+.rn-nav-list .nav-item {
+    z-index: 1000;
+    flex-basis: 25%;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+.rn-nav-list .nav-item .nav-link {
+    color: white ;
+    /* font-family: var(--font-primary); */
+    padding: 30px 10px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 500;
+    outline: none;
+    border: 0 none;
+    transition: all 0.5s;
+    background: transparent;
+    border-radius: 10px;
+}
+.rn-nav-list .nav-item .nav-link:hover, .rn-nav-list .nav-item .nav-link.active {
+    color: #CE72C7;
+    background-color: transparent;
+    border-color: transparent;
+    border: 0 none;
+    background: linear-gradient(145deg, #181728, #181728);
+    box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+}
+
+.personal-experience-inner .content .maintitle {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 62px;
+    color: #c4cfde;
+}
+.personal-experience-inner .experience-list {
+    padding-left: 31px;
+    border-left: 5px solid #17191c;
+}
+.personal-experience-inner .experience-list .resume-single-list {
+    position: relative;
+    z-index: 2;
+    margin-top: 50px;
+    padding: 45px 40px;
+    border-radius: 6px;
+    background: linear-gradient(145deg, #171527, #171527);
+    box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
+    transition: 0.4s;
+}
+.personal-experience-inner .experience-list .resume-single-list::before {
+    content: "";
+    position: absolute;
+    transition: 0.4s;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to right bottom, #212428, #16181c);
+    opacity: 0;
+    z-index: -1;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner .heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #1a1d23;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner p {
+    font-size: 18px;
+    line-height: 28px;
+    color: #878e99;
+    transition: 0.4s;
+    text-align: left;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner::before {
+    position: absolute;
+    content: "";
+    width: 28px;
+    height: 5px;
+    right: 100%;
+    top: 63px;
+    transform: translateY(-7px);
+    background: #171728;
+    z-index: 0;
+}
+.personal-experience-inner .experience-list .resume-single-list::before {
+    content: "";
+    position: absolute;
+    transition: 0.4s;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to right bottom, #171728, #171728);
+    opacity: 0;
+    z-index: -1;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner::after {
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 20px;
+    border: 5px solid #17191c;
+    border-radius: 100%;
+    right: 104%;
+    top: 55px;
+    transform: translateY(-7px);
+    background: #171527;
+    transition:0.4s;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner:hover::after {
+background-color: #CB85EF;
+}
+.personal-experience-inner .experience-list .resume-single-list:hover .inner .description {
+    color: #c4cfde;
+}
+.personal-experience-inner .content .maintitle {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 62px;
+    color: #c4cfde;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: -10px;
+}
+.personal-experience-inner .content span.subtitle {
+    color: #f9004d;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    text-align: left !important;
+}
+.progress-charts h6.heading {
+    margin-bottom: 15px;
+    color: #c3cedd;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0.9;
+    font-weight: 400;
+    text-align: left !important;
+    font-size: 10px !important;
+margin-left: -20px;
+    margin-top: 20px;
+}
+.progress-charts .progress {
+    height: 13px;
+    overflow: visible;
+    font-size: 14px;
+    border-radius: 10px;
+    padding: 3px;
+    background: #212428;
+    box-shadow: inset 8px 8px 16px rgb(0 0 0 / 46%), inset -8px -8px 16px rgb(56 62 69 / 46%);
+}
+.progress-charts .progress .progress-bar {
+    overflow: visible;
+    position: relative;
+    border-radius: 14px;
+    background: #9C65B9;
+    background: linear-gradient(145deg, #9C65B9 0%, #9C65B9 100%);
+}
+.progress-charts .progress .progress-bar span.percent-label {
+    position: absolute;
+    right: -7px;
+    top: -22px;
+    font-weight: 400;
+    color: #c3cedd;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    opacity: 0.9;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner .heading .title h4 {
+    color: var(--color-lightn);
+    /* font-family: var(--font-primary); */
+    font-size: 24px;
+    line-height: 39px;
+    margin-bottom: 7px;
+    font-weight: 500;
+    transition: 0.4s;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner .heading .title span {
+    color: #7c838e;
+    display: block;
+    font-size: 14px;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner .heading .date-of-time {
+    display: inline-block;
+}
+.personal-experience-inner .experience-list .resume-single-list .inner .heading .date-of-time span {
+    color: #9C65B9;
+    display: block;
+    font-size: 15px;
+    padding: 0 15px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 6px;
+    background: rgb(189, 121, 219,0.2);
+    /* box-shadow: var(--shadow-1); */
+    transition: 0.4s;
+    font-weight: 500;
+}
+.h1-description-edu{
+    text-align: left;
+    font-size: 17px;
+    color:#878E99
+}

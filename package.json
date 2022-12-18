@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/serialize": "^1.1.1",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.0",
+    "@mui/styled-engine-sc": "^5.11.0",
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -22,6 +27,7 @@
     "react-tsparticles": "^1.42.2",
     "react-typist": "^2.0.5",
     "react-typist-loop": "^1.0.0",
+    "styled-components": "^5.3.6",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
