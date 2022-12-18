@@ -9,7 +9,11 @@ import TopNoor from "../../Assets/Projects/topnoor.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import Tickup from "../../Assets/Projects/tickup.png";
 import Esti from "../../Assets/Projects/esti.png";
-
+import Hub from '../../Assets/Projects/hub.png'
+import DoNoghte from '../../Assets/Projects/donoghte.png'
+import Rge from '../../Assets/Projects/rge.png'
+import Form from '../../Assets/Projects/form.png'
+import Hesspresso from '../../Assets/Projects/hesspresso.png'
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -52,25 +56,69 @@ function Projects() {
               isBlog={false}
               noGit={true}
               title="TickUp"
-              description="Teacup is an online trivia game. In this way, the user can participate in challenges and live. our technology is ReactNative , JavaSpringBoot"
+              description="Tickup is an online trivia game. In this way, the user can participate in challenges and live. our technology is ReactNative , JavaSpringBoot"
               // ghLink="#"
               // demoLink="http://esticast.org/"
             />
           </Col>
 
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={Hub}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              noGit={true}
+              title="IUST Game Hub"
+              description="IUST Game hub is palce for Develop game with Publisher Mentoring. this website is interview for this place . our technology is React"
+              // ghLink="#"
+              demoLink="http://hubgame.ir/?i=2"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={DoNoghte}
+              isBlog={false}
+              noGit={true}
+              title="DoNoghte"
+              description="DoNoghte is clone game base on TwoDots. our technology is Unity"
+              // ghLink="#"
+              demoLink="https://cafebazaar.ir/app/com.Bourna.DoNoghte"
             />
           </Col>
 
           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Rge}
+              isBlog={false}
+              title="RGE"
+              description="This company has allocated its activities to the design and implementation of facade lighting, green space (Landscape) and interior lighting. this website is interview about this company. our technology is React, JavaSpringBoot"
+              noGit={true}
+              demoLink="https://rge.ir/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Form}
+              isBlog={false}
+              title="formCooperate"
+              description="this site is about Cooperate between two university (IUST , SPBPU). our technology is React, JavaSpringBoot"
+              noGit={true}
+              // demoLink="https://rge.ir/"              
+            />
+          </Col>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Hesspresso}
+              isBlog={false}
+              title="Hesspresso Menu"
+              description="Digital Menu. our technology is React, JavaSpringBoot"
+              noGit={true}
+              demoLink="http://hesspressocafe.com/"              
+            />
+          </Col>
+
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
@@ -102,7 +150,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
