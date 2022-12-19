@@ -67,52 +67,42 @@ function Jobcard() {
                                                 <div className="inner">
                                                     <div className="heading">
                                                         <div className="title">
-                                                            <h4>Arkamond (Remote)</h4>
-                                                            <span>Frontend Developer (May 2020 - Present)</span>
+                                                            <h4>Noyan</h4>
+                                                            <span>Unity Developer (Sep 2022 - Present)</span>
                                                         </div>
                                                         <div className="date-of-time">
                                                             {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/Arkamond.jpeg" alt="Arkamond Logo"> */}
                                                         </div>
                                                     </div>
                                                     <p className="description">
-                                                        •Collaborated with design, product, and back-end teams to create 10+ international fully responsive super
-                                                        web-application products with different panels, about 500+ pages with UI/UX designs.
-                                                        <br/>
-                                                        •Built modular-based components and utilities and 100% reusable code for future usage.
-                                                        <br/>
-                                                        •Used OAuth protocol and Microservice Architecture for multi-panel projects and implemented the management panels using
-                                                        React.JS. Used SCSS, jQuery, and Django template for other panels, which need better SEO that makes driving acquisition
-                                                        up by an average of 250% each month.
-                                                        <br/>
-                                                        •Developed Mobile and Desktop Applications with the same code as web applications due to Responsiveness, Cross-Browser
-                                                        Compatibility, and Accessibility-Compliant websites that improved the number of total members by 40%.
-                                                        <br/>
-                                                        •Created a Solar Hijri (Iranian) Calendar with High-Tech Features similar to Google Calendar in tandem with a Great
-                                                        Music Platform
-                                                        like Spotify for Kurdish People, which Led to an Increase in Client’s Average Time Using the Application by 32%.
-                                                        <br/>
-                                                        •Proficient in Scrum Methodology. Participated in Product Release Presentations and Code Reviews with 3 Senior
-                                                        Developers. Had
-                                                        the Leadership, Supervision, and Mentoring of a Team with 5 Juniors to Achieve High-Performance.
-                                                        <br/>
-                                                        •Test the products before releasing them to the market and get the +95% coverage with the Jest framework.
-                                                        <br/>
-                                                        •Delivered Engaging User Experience by Optimizing images and code. Created Custom Webpack.JS, achieving 24% faster load
-                                                        time than the industry average.
-                                                        <br/>
-                                                        •Technology Stack: HTML5, SCSS, JQuery, Bootstrap4, Material UI, TypeScript, React.JS, React Native, Electron JS, Django
-                                                        Template, Django, Docker, PostgreSQL, MongoDB, NginX, WebSocket, Git, Trello, Figma, Zeplin
+                                                        •Developing a MetaVerse game based on a design in the WEBGL platform
+                                                        
                                                     </p>
                                                 </div>
                                             </div>
-
 
                                             <div className="resume-single-list">
                                                 <div className="inner">
                                                     <div className="heading">
                                                         <div className="title">
+                                                            <h4>Quiz of Kings Game Studio(Tehran-Iran)</h4>
+                                                            <span>Game Manager (Jan 2022 - Jun 2022)</span>
+                                                        </div>
+                                                        <div className="date-of-time">
+                                                            {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/MedrickLogo.jpeg" alt="Medrick Logo"> */}
+                                                        </div>
+                                                    </div>
+                                                    <p className="description">
+                                                        Develop an online (PVP) match three mobile game project where players compete against each other.
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <div className="resume-single-list">
+                                                <div className="inner">
+                                                    <div className="heading">
+                                                        <div className="title">
                                                             <h4>Medrick FZE (Tehran-Iran)</h4>
-                                                            <span>Unity Developer (Aug 2021 - May 2022)</span>
+                                                            <span>Game Manager (Sep 2021 - Mar 2022)</span>
                                                         </div>
                                                         <div className="date-of-time">
                                                             {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/MedrickLogo.jpeg" alt="Medrick Logo"> */}
@@ -129,33 +119,35 @@ function Jobcard() {
                                             <div className="inner">
                                                 <div className="heading">
                                                     <div className="title">
-                                                        <h4>ViralTech.co (Tehran-Iran)</h4>
-                                                        <span>Frontend development lead (Oct 2020 - Mar 2021)</span>
+                                                        <h4>Dadeh Gostar Adak (Tehran-Iran)</h4>
+                                                        <span>Frontend Developer (Aug 2020 - Jan 2022)</span>
                                                     </div>
                                                     <div className="date-of-time">
                                                         {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/viraltech.jpeg" alt="Viraltech Logo"> */}
                                                     </div>
                                                 </div>
                                                 <p className="description">
-                                                    •Developed the mobile-friendly project about Cryptocurrencies including the admin panel, User Panel, and a SPA
-                                                    compatible with
-                                                    100% device sizes.
-                                                    <br/>
-                                                    •Recreated a custom client dashboard that reduced support tickets by 50%.
-                                                    <br/>
-                                                    •Implemented the system with Full Compatibility with a High-Security backend for payment and connecting to the client’s
-                                                    wallet
-                                                    page, decreasing the security concerns to 0.
-                                                    <br/>
-                                                    •Led and mentored 3 members and apply Material-UI, antd, and bootstrap4, to increase the speed of development by about
-                                                    45%.
-                                                    <br/>
-                                                    •Technology Stack: JSX, SCSS, Bootstrap4, Material UI, Antd, React.JS, ASP .Net Core, C#, MySQL, SQL Server, Azure
-                                                    DevOps, NginX, Git, Figma
+                                                    •I was working as a front-end developer at adak company. During this time I have implemented the web applications as well as the pwa, and also i’ve gained experience on the server side
+                                                   
                                                 </p>
                                             </div>
                                         </div>
-
+                                        <div className="resume-single-list">
+                                            <div className="inner">
+                                                <div className="heading">
+                                                    <div className="title">
+                                                        <h4>Awans (Tehran-Iran)</h4>
+                                                        <span>Internship (May 2019 - Aug 2019)</span>
+                                                    </div>
+                                                    <div className="date-of-time">
+                                                        {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/viraltech.jpeg" alt="Viraltech Logo"> */}
+                                                    </div>
+                                                </div>
+                                                <p className="description">
+                                                    •Awans was an insurance startup that i implemented the android application for them
+                                                </p>
+                                            </div>
+                                        </div>
                                            
 
                                         </div>
