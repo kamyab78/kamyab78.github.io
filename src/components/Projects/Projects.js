@@ -14,6 +14,9 @@ import DoNoghte from '../../Assets/Projects/donoghte.png'
 import Rge from '../../Assets/Projects/rge.png'
 import Form from '../../Assets/Projects/form.png'
 import Hesspresso from '../../Assets/Projects/hesspresso.png'
+import Nodesc from '../../Assets/Projects/node.png'
+import AdakSite from '../../Assets/Projects/adaksite.png'
+
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -49,7 +52,17 @@ function Projects() {
               demoLink="http://esticast.org/"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={AdakSite}
+              isBlog={false}
+              // noGit={true}
+              title="AdakWebsite"
+              description="Company introduction website. our technology is React"
+              ghLink="https://github.com/kamyab78/adakWebSite"
+              // demoLink="http://esticast.org/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Tickup}
@@ -117,7 +130,16 @@ function Projects() {
               demoLink="http://hesspressocafe.com/"              
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Nodesc}
+              isBlog={false}
+              title="Detect availbe node network"
+              description="This project has been carried out with the approach of entering into a system and network and opening a socket in the network and by sending an ICMP packet. It identifies the nodes that are active and finally, after identifying these nodes, it identifies the IPs and draws the final graph in the form of a graph that is the main node of the server and all are connected to the server with edges. our technology is Python"
+              // noGit={true}
+              ghLink="https://github.com/kamyab78/Detect_availbe_node_network"
+              />
+          </Col>
           {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={leaf}
