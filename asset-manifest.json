@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.07485fb2.css",
-    "main.js": "/static/js/main.3b21f46e.js",
+    "main.js": "/static/js/main.9eac044d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.8b641851b61715ba05e3.png",
     "static/media/form.png": "/static/media/form.ffaff939c4f934117ccc.png",
@@ -16,6 +16,8 @@
     "static/media/tickup.png": "/static/media/tickup.edc6840527c2a9baf703.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/esti.png": "/static/media/esti.995223d647795b13edfb.png",
+    "static/media/node.png": "/static/media/node.966222622b960aefbd10.png",
+    "static/media/adaksite.png": "/static/media/adaksite.a97366ef25f679504af0.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/kamyab_portfolio.pdf": "/static/media/kamyab_portfolio.b5bbea235a92f75b04d6.pdf",
@@ -24,11 +26,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.07485fb2.css.map": "/static/css/main.07485fb2.css.map",
-    "main.3b21f46e.js.map": "/static/js/main.3b21f46e.js.map",
+    "main.9eac044d.js.map": "/static/js/main.9eac044d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07485fb2.css",
-    "static/js/main.3b21f46e.js"
+    "static/js/main.9eac044d.js"
   ]
 }
