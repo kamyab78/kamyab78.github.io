@@ -16,7 +16,8 @@ import Form from '../../Assets/Projects/form.png'
 import Hesspresso from '../../Assets/Projects/hesspresso.png'
 import Nodesc from '../../Assets/Projects/node.png'
 import AdakSite from '../../Assets/Projects/adaksite.png'
-
+import Awans from '../../Assets/Projects/awans.png'
+import Eli from '../../Assets/Projects/eligner.png'
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -97,7 +98,28 @@ function Projects() {
               demoLink="https://cafebazaar.ir/app/com.Bourna.DoNoghte"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Awans}
+              isBlog={false}
+              noGit={true}
+              title="Awans"
+              description="Awans is a startup . This startup was selling car insurance. our technology is Android"
+              // ghLink="#"
+              // demoLink="https://cafebazaar.ir/app/com.Bourna.DoNoghte"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Eli}
+              isBlog={false}
+              noGit={true}
+              title="Eligner"
+              description="Dentist introduction site. our technology is WordPress"
+              // ghLink="#"
+              // demoLink="https://cafebazaar.ir/app/com.Bourna.DoNoghte"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Rge}
