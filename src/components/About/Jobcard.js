@@ -62,13 +62,30 @@ function Jobcard() {
                                         {/* <span className="subtitle">May 2020 - Present</span> */}
                                         <h4 className="maintitle">Job Experience</h4>
                                         <div className="experience-list">
-
+                                        <div className="resume-single-list">
+                                                <div className="inner">
+                                                    <div className="heading">
+                                                        <div className="title">
+                                                            <h4>Bourna</h4>
+                                                            <span>Frontend Developer (Jan 2023 - Present)</span>
+                                                        </div>
+                                                        <div className="date-of-time">
+                                                            {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/Arkamond.jpeg" alt="Arkamond Logo"> */}
+                                                        </div>
+                                                    </div>
+                                                    <p className="description">
+                                                        •I was working as a front-end developer at Bourna company. During this time I have implemented the web applications as well as the pwa.
+                                                        •My main work at Bourna company is the development of Shoping sites.
+                                                        
+                                                    </p>
+                                                </div>
+                                            </div>
                                             <div className="resume-single-list">
                                                 <div className="inner">
                                                     <div className="heading">
                                                         <div className="title">
                                                             <h4>Noyan</h4>
-                                                            <span>Unity Developer (Sep 2022 - Present)</span>
+                                                            <span>Unity Developer (Sep 2022 - Jan 2023)</span>
                                                         </div>
                                                         <div className="date-of-time">
                                                             {/* <img style="width:64px;height:64px;border-radius:20px;" src="assets/images/logo/Arkamond.jpeg" alt="Arkamond Logo"> */}

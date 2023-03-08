@@ -117,7 +117,7 @@ function Projects() {
               title="Eligner"
               description="Dentist introduction site. our technology is WordPress"
               // ghLink="#"
-              // demoLink="https://cafebazaar.ir/app/com.Bourna.DoNoghte"
+              demoLink="https://eliteligner.com/"
             />
           </Col>
           <Col md={4} className="project-card">
