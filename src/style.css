@@ -18,6 +18,9 @@ html {
   color: var(--imp-text-color) !important;
 }
 
+.white {
+  color: white;
+}
 button:focus {
   box-shadow: none !important;
 }

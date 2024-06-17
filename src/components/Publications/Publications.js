@@ -31,14 +31,14 @@ function PublicationsNew() {
               paddingBottom: "50px",
             }}
           >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
+            <h1 style={{ fontSize: "2.1em", paddingBottom: "24px" }}>
              <strong className="white" >Paper title: </strong><strong className="purple">ارائه یک رویکرد مقیاس پذیری خودکار منابع در محیط های بدون سرویس دهنده</strong>
             </h1>
             <h3 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Authors: <strong className="purple"> کاشانیان مبینا | آشتیانی مهرداد | قاسمی امیرحسین</strong>
+            <strong className="white" >Authors: </strong><strong className="purple"> کاشانیان مبینا | آشتیانی مهرداد | قاسمی امیرحسین</strong>
             </h3>
             <h4 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-            References: <strong className="purple"> مبینا کاشانیان، مهرداد آشتیانی، و امیرحسین قاسمی، “ارائه یک رویکرد مقیاس پذیری خودکار منابع در محیط های بدون سرویس دهنده،” presented at the کنفرانس بین المللی وب پژوهی. 1403، [Online]. Available: https://sid.ir/paper/1147632/fa</strong>
+            <strong className="white" >References:</strong> <strong className="purple"> مبینا کاشانیان، مهرداد آشتیانی، و امیرحسین قاسمی، “ارائه یک رویکرد مقیاس پذیری خودکار منابع در محیط های بدون سرویس دهنده،” presented at the کنفرانس بین المللی وب پژوهی. 1403، [Online]. Available: https://sid.ir/paper/1147632/fa</strong>
             </h4>
             </Col>
         </Row>
