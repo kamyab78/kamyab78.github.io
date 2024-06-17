@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.07485fb2.css",
-    "main.js": "/static/js/main.38e52979.js",
+    "main.css": "/static/css/main.d751c44c.css",
+    "main.js": "/static/js/main.a827d251.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.8b641851b61715ba05e3.png",
     "static/media/form.png": "/static/media/form.ffaff939c4f934117ccc.png",
@@ -20,19 +20,19 @@
     "static/media/node.png": "/static/media/node.966222622b960aefbd10.png",
     "static/media/adaksite.png": "/static/media/adaksite.a97366ef25f679504af0.png",
     "static/media/awans.png": "/static/media/awans.529be01cbde590829265.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/kamyab_portfolio.pdf": "/static/media/kamyab_portfolio.b5bbea235a92f75b04d6.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/Linkedin_Badge_2.png": "/static/media/Linkedin_Badge_2.6ae542a6fe874422190a.png",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.07485fb2.css.map": "/static/css/main.07485fb2.css.map",
-    "main.38e52979.js.map": "/static/js/main.38e52979.js.map",
+    "main.d751c44c.css.map": "/static/css/main.d751c44c.css.map",
+    "main.a827d251.js.map": "/static/js/main.a827d251.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07485fb2.css",
-    "static/js/main.38e52979.js"
+    "static/css/main.d751c44c.css",
+    "static/js/main.a827d251.js"
   ]
 }
