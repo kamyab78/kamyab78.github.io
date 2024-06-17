@@ -32,7 +32,7 @@ function PublicationsNew() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Paper title: <strong className="purple">ارائه یک رویکرد مقیاس پذیری خودکار منابع در محیط های بدون سرویس دهنده</strong>
+             <strong className="white" >Paper title: </strong><strong className="purple">ارائه یک رویکرد مقیاس پذیری خودکار منابع در محیط های بدون سرویس دهنده</strong>
             </h1>
             <h3 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
               Authors: <strong className="purple"> کاشانیان مبینا | آشتیانی مهرداد | قاسمی امیرحسین</strong>
